@@ -1,4 +1,4 @@
-package com.responsi.mvp;
+package com.responsi.mvp.model;
 
 import com.google.gson.annotations.SerializedName;
 

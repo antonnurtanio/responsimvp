@@ -1,9 +1,8 @@
-package com.responsi.mvp;
+package com.responsi.mvp.model;
 
 import com.google.gson.annotations.SerializedName;
 
-
-public class Dob{
+public class Registered{
 
 	@SerializedName("date")
 	private String date;
